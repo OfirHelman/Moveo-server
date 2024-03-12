@@ -1,4 +1,4 @@
-##Real-Time Code Collaboration System - Server##
+## Real-Time Code Collaboration System - Server ##
 
 This project is the server-side component of a real-time code collaboration system built using React, Express, and Socket.io. It facilitates communication between clients, manages user roles, and coordinates real-time updates to code blocks.
 
